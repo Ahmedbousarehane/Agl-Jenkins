@@ -12,6 +12,6 @@ package ma.emi.Bousarehane;
 public class Hello {
    
     public void Hello(){
-        System.out.println("Helloo !!");
+        System.out.println("Helloo people!!");
     }
 }

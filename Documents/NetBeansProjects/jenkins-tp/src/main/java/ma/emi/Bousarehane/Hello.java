@@ -10,5 +10,8 @@ package ma.emi.Bousarehane;
  * @author Ahmed Yassin
  */
 public class Hello {
-    
+   
+    public void Hello(){
+        System.out.println("Helloo !!");
+    }
 }
